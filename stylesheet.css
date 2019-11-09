@@ -181,6 +181,8 @@ header {
 footer img {
   width: 125px;
 }
+footer h1 {
+  font-size:15px;
 
 footer p {
   color: #b3aeb5;
@@ -204,6 +206,7 @@ footer {
   clear: left;
 }
 
+/* タブレットコード*/
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
@@ -219,6 +222,7 @@ footer {
   }
 }
 
+/*　モバイルコード　*/
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
     font-size: 32px;

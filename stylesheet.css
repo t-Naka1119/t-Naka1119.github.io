@@ -85,9 +85,9 @@ header {
 }
 
 .header-left h1 {
-  font-size: 20px;
+  font-size: 30px;
   color:white;
-  margin-top: 20px;
+  margin: 15px;
 }
 
 .header-left {

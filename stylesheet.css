@@ -84,7 +84,7 @@ header {
   z-index: 10;
 }
 
-h1 logo {
+.header-left h1 {
   width: 124px;
   margin-top: 20px;
 }

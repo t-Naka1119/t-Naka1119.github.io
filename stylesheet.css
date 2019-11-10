@@ -68,13 +68,10 @@ a {
 }
 
 .btn:hover {
-  opacity: 1;
-}
-
-.btn:hover span {
   -webkit-transform: rotateX(360deg);
   -ms-transform: rotateX(360deg);
   transform: rotateX(360deg);
+  opacity: 1;
 }
 
 .fa {

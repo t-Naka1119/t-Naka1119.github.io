@@ -47,11 +47,13 @@ a {
 
 .facebook {
   background-color: #3b5998;
+  margin-right: 10px;
 }
 
 .instagram {
   background: -webkit-linear-gradient(15deg, #ffdb2c, rgb(249, 118, 76) 25%, rgba(255, 77, 64, 0) 50%) no-repeat;
   background: linear-gradient(15deg, #ffdb2c, rgb(249, 118, 76) 25%, rgba(255, 77, 64, 0) 50%) no-repeat;
+  margin-right: 10px;
 }
 
 .btn {
@@ -61,7 +63,6 @@ a {
   opacity: 0.8;
   border-radius: 4px;
   text-align: center;
-  margin-right: 10px;
 }
 
 .btn:hover {

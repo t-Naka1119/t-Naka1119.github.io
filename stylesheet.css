@@ -47,17 +47,17 @@ a {
 
 .facebook {
   background-color: #3b5998;
+  color: white;
   margin-right: 10px;
 }
 
 .Instagram {
-  background-color: white;
+  background-color: #FFFFFF;
   color: black;
 }
 
 .btn {
   padding: 8px 24px;
-  color: white;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;

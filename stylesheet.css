@@ -138,8 +138,9 @@ header {
 }
 
 .lesson-icon p {
+  font-size: 16px;
   position: absolute;
-  top: 37%;
+  top: 36%;
   width: 100%;
   color: white;
 }

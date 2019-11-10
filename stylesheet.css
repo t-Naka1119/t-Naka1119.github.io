@@ -47,16 +47,22 @@ a {
 
 .facebook {
   background-color: #3b5998;
-  color: white;
   margin-right: 10px;
 }
 
 .Instagram {
-  background-color: #FFFFFF;
-  color: black;
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;/*全体を覆う*/
+  height: 100%;/*全体を覆う*/
+  background: -webkit-linear-gradient(15deg, #ffdb2c, rgb(249, 118, 76) 25%, rgba(255, 77, 64, 0) 50%) no-repeat;
+  background: linear-gradient(15deg, #ffdb2c, rgb(249, 118, 76) 25%, rgba(255, 77, 64, 0) 50%) no-repeat;
 }
 
 .btn {
+  color: white;
   padding: 8px 24px;
   display: inline-block;
   opacity: 0.8;

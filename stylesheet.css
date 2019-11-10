@@ -68,6 +68,12 @@ a {
   opacity: 1;
 }
 
+.btn:hover span {
+  -webkit-transform: rotateX(360deg);
+  -ms-transform: rotateX(360deg);
+  transform: rotateX(360deg);
+}
+
 .fa {
   margin-right: 5px;
 }

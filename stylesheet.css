@@ -53,8 +53,7 @@ a {
 .instagram {
   background: -webkit-linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;
   background: linear-gradient(135deg, #427eff 0%, #f13f79 70%) no-repeat;/*グラデーション①*/
-  margin-right: 10px;
-}
+ }
 
 .btn {
   color: white;
